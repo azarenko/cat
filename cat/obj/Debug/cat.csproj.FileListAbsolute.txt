@@ -1,0 +1,6 @@
+C:\projects\personal\cat\cat\bin\Debug\cat.exe
+C:\projects\personal\cat\cat\bin\Debug\cat.pdb
+C:\projects\personal\cat\cat\obj\Debug\cat.csproj.AssemblyReference.cache
+C:\projects\personal\cat\cat\obj\Debug\cat.csproj.CoreCompileInputs.cache
+C:\projects\personal\cat\cat\obj\Debug\cat.exe
+C:\projects\personal\cat\cat\obj\Debug\cat.pdb
